@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Networking**
 
-- 💬 Ask me about **Cyber Security, Leadership, Project Management**
+- 💬 Ask me about **Cyber Security, Leadership, Public Speaking**
 
 - 📫 How to reach me **prakrititimilsina29@gmail.com**
 

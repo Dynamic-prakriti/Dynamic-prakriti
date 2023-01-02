@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prakrititimilsina-dynamicpt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prakrititimilsina-dynamicpt/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uck4ucve775gn9mmlcst2tiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uck4ucve775gn9mmlcst2tiw" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prakrititimilsina-dynamicpt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prakrititimilsina-dynamicpt/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCk4UcVE775gn9mMlCsT2Tiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCk4UcVE775gn9mMlCsT2Tiw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

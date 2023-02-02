@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Cyber Security, Leadership, Public Speaking**
 
-- 📫 How to reach me **prakrititimilsina29@gmail.com**
+- 📫 How to reach me **prakrititimilsina56@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Python, Computer Networking**
+- 🌱 I’m currently learning **Python, Computer Networking and Cybersecurity**
 
 - 💬 Ask me about **Cyber Security, Leadership, Public Speaking**
 

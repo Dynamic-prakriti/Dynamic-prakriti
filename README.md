@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Computer Networking and Cybersecurity**
 
-- 💬 Ask me about **Cyber Security, Leadership, Public Speaking**
+- 💬 Ask me about **Leadership, Public Speaking**
 
 
 <h3 align="left">Connect with me:</h3>

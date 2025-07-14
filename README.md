@@ -19,15 +19,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="" target="_blank" rel="noreferrer">
-  <img src="https://images.seeklogo.com/logo-png/30/2/logrhythm-logo-png_seeklogo-302986.png" alt="LogRhythm" width="40" height="40"/></a>
 <a href="https://hurbad.com/product-category/cisco/" target="_blank" rel="noreferrer">
   <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer-300x300.png" alt="Cisco Packet Tracer" width="40" height="40"/></a>
 <a href=" " target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/50/logstash.png" alt="Logstash" width="40" height="40"/> </a>
 <a href=" " target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/50/kibana.png" alt="Kibana" width="40" height="40"/> </a>
 <a href=" " target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/50/splunk.png" alt="Splunk" width="40" height="40"/> </a>
 <a href=" " target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" width="40" height="40"/> </a>
-<a href="  target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-nmap.svg" alt="Nmap" width="40" height="40"/> </a> 
+<a href=""  target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-nmap.svg" alt="Nmap" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -41,3 +39,6 @@
 
 
 
+
+
+[def]: _

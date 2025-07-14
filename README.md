@@ -19,8 +19,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href=https://hurbad.com/product-category/cisco/" target="_blank" rel="noreferrer">
-  <img src=https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer-300x300.png" alt="Cisco Packet Tracer" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://images.seeklogo.com/logo-png/30/2/logrhythm-logo-png_seeklogo-302986.png" alt="LogRhythm" width="40" height="40"/></a>
+<a href="https://hurbad.com/product-category/cisco/" target="_blank" rel="noreferrer">
+  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer-300x300.png" alt="Cisco Packet Tracer" width="40" height="40"/></a>
 <a href=" " target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/50/logstash.png" alt="Logstash" width="40" height="40"/> </a>
 <a href=" " target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/50/kibana.png" alt="Kibana" width="40" height="40"/> </a>
 <a href=" " target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/50/splunk.png" alt="Splunk" width="40" height="40"/> </a>

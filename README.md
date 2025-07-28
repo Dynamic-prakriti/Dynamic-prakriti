@@ -5,7 +5,7 @@
 
 
 
-- 🌱 Stepping Forward on **Python, Computer Networking and Cybersecurity**
+- 🌱 Stepping Forward on **Cybersecurity, Python and Computer Networking**
 
 - 💬 Ask me about **Leadership, Public Speaking**
 

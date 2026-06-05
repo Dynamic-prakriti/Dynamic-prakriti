@@ -22,7 +22,7 @@
 
 ## ⭐ Featured
 
-**[cybersecurity-python-programs](https://github.com/Dynamic-prakriti/cybersecurity-python-programs)** — Beginner-friendly cybersecurity projects in Python · ⭐ 13
+**[cybersecurity-python-programs](https://github.com/Dynamic-prakriti/cybersecurity-python-programs)** — Beginner-friendly cybersecurity projects in Python · ⭐ 
 
 ---
 
@@ -55,11 +55,3 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Prakriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dynamic-prakriti&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamic-prakriti&layout=compact&hide_border=true&theme=default)

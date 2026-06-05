@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Prakriti+Timilsina+%F0%9F%91%8B;Cybersecurity+%7C+Networking+%7C+Python" alt="Typing SVG" />
-</div>
-
-<br/>
+# Hi, I'm Prakriti 👋
 
 <img align="right" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="300"/>
 
@@ -26,7 +22,7 @@
 
 ## ⭐ Featured
 
-[![cybersecurity-python-programs](https://github-readme-stats.vercel.app/api/pin/?username=Dynamic-prakriti&repo=cybersecurity-python-programs&theme=default&hide_border=true)](https://github.com/Dynamic-prakriti/cybersecurity-python-programs)
+**[cybersecurity-python-programs](https://github.com/Dynamic-prakriti/cybersecurity-python-programs)** — Beginner-friendly cybersecurity projects in Python · ⭐ 13
 
 ---
 
@@ -34,43 +30,36 @@
 
 **Security & SIEM**
 
-<p>
-  <img src="https://img.shields.io/badge/LogRhythm-003B6F?style=for-the-badge&logoColor=white" title="LogRhythm"/>
-  <img src="https://img.shields.io/badge/Wazuh-3578E5?style=for-the-badge&logoColor=white" title="Wazuh"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" title="Splunk"/>
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" title="Kibana"/>
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" title="Logstash"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" title="Wireshark"/>
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" title="Nmap"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" title="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white" title="Metasploit"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" title="Kali Linux"/>
-</p>
+![LogRhythm](https://img.shields.io/badge/LogRhythm-003B6F?style=for-the-badge&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3578E5?style=for-the-badge&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 **Networking**
 
-<p>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" title="Cisco"/>
-  <img src="https://img.shields.io/badge/Nagios-EE3524?style=for-the-badge&logoColor=white" title="Nagios"/>
-  <img src="https://img.shields.io/badge/Cacti-8BC34A?style=for-the-badge&logoColor=white" title="Cacti"/>
-</p>
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-EE3524?style=for-the-badge&logoColor=white)
+![Cacti](https://img.shields.io/badge/Cacti-8BC34A?style=for-the-badge&logoColor=white)
 
 **Languages & Dev**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="PHP"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" title="Django"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dynamic-prakriti&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamic-prakriti&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
+![Prakriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dynamic-prakriti&show_icons=true&hide_border=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamic-prakriti&layout=compact&hide_border=true&theme=default)
